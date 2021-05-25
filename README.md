@@ -1,4 +1,4 @@
-# [DEPRECATED] Eth 2.0 test vectors generators
+# [DEPRECATED] Vap 2.0 test vectors generators
 
 _Starting at [v0.6.0](https://github.com/ethereum/eth2.0-specs/releases/tag/v0.6.0) of the eth2.0 spec, this repo has been deprecated in favor of https://github.com/ethereum/eth2.0-spec-tests. All subsequent test vectors will be released to the new repo._
 
